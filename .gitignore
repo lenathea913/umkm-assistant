@@ -1,0 +1,10 @@
+# Rahasia — jangan pernah commit
+.env
+.langflow-key
+*.key
+
+# Python
+__pycache__/
+*.pyc
+
+# Catatan: evals/eval-run-latest.json boleh di-commit (hasil eval, tanpa rahasia)
