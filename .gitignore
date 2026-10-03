@@ -1,0 +1,22 @@
+# Python / Langflow lokal
+.venv/
+__pycache__/
+langflow.log
+
+# Kredensial & environment
+.env
+.env.local
+.env.*.local
+
+# Node / Next.js
+node_modules/
+.next/
+out/
+*.tsbuildinfo
+next-env.d.ts
+
+# Log
+*.log
+
+# Tooling state
+.freebuff/
